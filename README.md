@@ -1,6 +1,6 @@
 # ToDoList-in-Python
 ToDoList in Python using OOPS concepts
 
-Git Clone\n
-Run Todo.py\n
+Git Clone<br/>
+Run Todo.py<br/>
 use help for commands
